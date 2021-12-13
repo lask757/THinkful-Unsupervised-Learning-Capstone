@@ -114,7 +114,7 @@ lesscpy==0.13.0
 libarchive-c==2.8
 llvmlite==0.25.0
 locket==0.2.0
-lxml==4.2.5
+lxml==4.6.5
 Mako==1.0.7
 MarkupSafe==1.0
 matplotlib==2.2.3
