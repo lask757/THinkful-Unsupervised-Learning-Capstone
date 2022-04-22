@@ -188,7 +188,7 @@ pylint==2.1.1
 pyodbc==4.0.24
 pyOpenSSL==18.0.0
 pyparsing==2.3.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyro-ppl==0.2.1
 PySocks==1.6.8
 pytest==3.6.3
